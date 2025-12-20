@@ -1,4 +1,4 @@
-# 👨‍💻 Backend Software Engineer | Express.js
+# 👨‍💻 Backend Software Engineer ||
 
 Building dependable backend systems with a focus on security, performance, and clarity.
 
