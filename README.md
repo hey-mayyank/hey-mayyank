@@ -1,4 +1,4 @@
-# 👨‍💻 Backend Software Engineer |
+# 👨‍💻 Backend Software Engineer;
 
 Building dependable backend systems with a focus on security, performance, and clarity.
 
@@ -41,7 +41,6 @@ Security is integrated into every layer of my work:
 ## 🛠 Tech Stack
 
 ```txt
-Backend Developer (Express.js)
 
 Language:
 - JavaScript (Node.js, ES6+)
