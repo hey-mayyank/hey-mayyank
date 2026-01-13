@@ -25,19 +25,6 @@ My approach is practical and engineering-driven — I care about how systems beh
 
 ---
 
-## 🔐 Security Mindset
-
-Security is integrated into every layer of my work:
-
-- Input validation & sanitization  
-- Secure password handling  
-- Token-based authentication (JWT)  
-- Role-based access control  
-- Safe error responses  
-- Protection against common API threats  
-
----
-
 ## 🛠 Tech Stack
 
 ```txt
