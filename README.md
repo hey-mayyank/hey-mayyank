@@ -3,28 +3,6 @@
 Building dependable backend systems with a focus on security, performance, and clarity.
 
 ---
-
-## 🧩 Who I Am
-
-I’m a backend-oriented software engineer specializing in **Node.js and Express.js**.  
-I enjoy designing APIs and backend services that are easy to maintain, secure by default, and scalable as requirements grow.
-
-My approach is practical and engineering-driven — I care about how systems behave in production, not just how they look in code.
-
----
-
-## ⚙️ Backend Focus
-
-- RESTful API design & implementation  
-- Express.js middleware architecture  
-- Database modeling & query optimization  
-- Authentication & authorization workflows  
-- Error handling & logging strategies  
-- Environment-based configuration  
-- API documentation & testing  
-
----
-
 ## 🛠 Tech Stack
 
 ```txt
